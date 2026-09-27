@@ -1,0 +1,32 @@
+name: veille-minipublics
+on:
+  schedule:
+    - cron: "0 6   1,3,5"
+  workflow_dispatch: {}
+permissions:
+  contents: write
+jobs:
+  veille:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+      - name: Install deps
+        run: pip install pyyaml
+      - name: Run veille
+        run: python3 pipeline/veille.py
+      - name: Build site
+        run: python3 pipeline/build_site.py
+      - name: Commit digest + site
+        run: |
+          git config user.name "veille-bot"
+          git config user.email "action@github.com"
+          git add digests/ site/
+          if git diff --cached --quiet; then
+            echo "Rien de nouveau — pas de commit"
+          else
+            git commit -m "veille: digest $(date -u +%F)"
+            git push
+          fi
