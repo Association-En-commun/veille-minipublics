@@ -8,6 +8,7 @@ par API ; sinon scoring par mots-clés (cadrage humain) — jamais de contenu in
 import re
 import sys
 import html
+import subprocess
 import urllib.request
 import xml.etree.ElementTree as ET
 from datetime import datetime, timezone
@@ -157,6 +158,18 @@ def main():
     print(f"OK {out} — {len(all_items)} collectés, {len(kept)} retenus")
     if errors:
         print("Erreurs:", *errors, sep="\n  ", file=sys.stderr)
+
+    # Phases 1 & 2 : traduction LLM puis podcast (non fatals — le site reste FR seul si échec)
+    try:
+        subprocess.run([sys.executable, str(BASE / "pipeline" / "translate.py")],
+                       check=False, timeout=900)
+    except Exception as e:
+        print(f"Traduction sautée : {e}", file=sys.stderr)
+    try:
+        subprocess.run([sys.executable, str(BASE / "pipeline" / "audio.py")],
+                       check=False, timeout=1800)
+    except Exception as e:
+        print(f"Audio sauté : {e}", file=sys.stderr)
 
 
 if __name__ == "__main__":
