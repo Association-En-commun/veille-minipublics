@@ -1,0 +1,67 @@
+# Sources de veille MiniPublic — le thème = cette configuration
+# Changement de thème = remplacer ces entrées (design "une usine, plusieurs produits")
+
+sources:
+  - id: news-fr
+    name: "Google News FR — mini-publics / assemblées citoyennes (CH)"
+    type: gnews
+    url: "https://news.google.com/rss/search?q=%22mini-public%22+OR+%22assembl%C3%A9e+citoyenne%22+OR+%22tirage+au+sort%22+citoyen&hl=fr&gl=CH&ceid=CH:fr"
+    lang: fr
+
+  - id: news-de
+    name: "Google News DE — Bürgerrat (CH)"
+    type: gnews
+    url: "https://news.google.com/rss/search?q=%22B%C3%BCrgerrat%22+OR+%22B%C3%BCrgerversammlung%22&hl=de&gl=CH&ceid=CH:de"
+    lang: de
+
+  - id: news-it
+    name: "Google News IT — minipubblici (CH)"
+    type: gnews
+    url: "https://news.google.com/rss/search?q=%22minipubblici%22+OR+%22assemblea+di+cittadini%22&hl=it&gl=CH&ceid=CH:it"
+    lang: it
+
+  # participation-brussels : pas de flux RSS public (testé 27.09.2026, toutes les URLs 404)
+  # → à suivre via la brique RSS-Bridge ou en scraping contrôlé (phase 2)
+
+# Cadrage éditorial — le "5%" humain. Un LLM (option LLM_API dans le workflow)
+# affine le scoring ; à défaut, scoring par mots-clés ci-dessous.
+cadrage:
+  include_keywords:   # +2 points par occurrence (titre+résumé)
+    - "mini-public"
+    - "minipublic"
+    - "mini public"
+    - "assemblée citoyenne"
+    - "assemblée de citoyens"
+    - "convention citoyenne"
+    - "tirage au sort"
+    - "panel citoyen"
+    - "Bürgerrat"
+    - "Bürgerforum"
+    - "minipubblico"
+    - "deliberative"
+    - "démocratie délibérative"
+    - "sortition"
+    - "conseil citoyen"
+  boost_switzerland:  # +3 si la Suisse ou une ville CH est mentionnée
+    - "Suisse"
+    - "Schweiz"
+    - "Svizzera"
+    - "Genève"
+    - "Genf"
+    - "Ginevra"
+    - "Lausanne"
+    - "Berne"
+    - "Bern"
+    - "Zurich"
+    - "Zürich"
+    - "Fribourg"
+    - "Neuchâtel"
+    - "Morges"
+    - "Yverdon"
+    - "Nyon"
+    - "Vaud"
+    - "Romandie"
+  exclude_keywords:   # rejet direct
+    - "casino"
+    - "loterie"
+  publish_threshold: 3   # score minimal pour figurer au digest
