@@ -1,7 +1,7 @@
 name: veille-minipublics
 on:
   schedule:
-    - cron: "0 6   1,3,5"
+    - cron: "0 6 * * 1,3,5"
   workflow_dispatch: {}
 permissions:
   contents: write
