@@ -19,8 +19,11 @@ def gemini(prompt, key):
     body = json.dumps({"contents": [{"parts": [{"text": prompt}]}],
                        "generationConfig": {"temperature": 0.3}}).encode()
     req = urllib.request.Request(url, data=body, headers={"Content-Type": "application/json"})
-    with urllib.request.urlopen(req, timeout=120) as r:
-        d = json.loads(r.read().decode())
+    try:
+        with urllib.request.urlopen(req, timeout=120) as r:
+            d = json.loads(r.read().decode())
+    except urllib.error.HTTPError as e:
+        raise RuntimeError(f"Gemini {e.code}: {e.read().decode()[:300]}") from e
     return d["candidates"][0]["content"]["parts"][0]["text"]
 
 
