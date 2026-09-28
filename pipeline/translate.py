@@ -27,7 +27,7 @@ def gemini(prompt, key):
                 d = json.loads(r.read().decode())
             break
         except urllib.error.HTTPError as e:
-            body = e.read().decode()[:300]
+            body = e.read().decode()[:800]
             last_err = RuntimeError(f"Gemini {e.code}: {body}")
             if e.code in (429, 503) and attempt < 3:
                 time.sleep([5, 15, 45][attempt])
