@@ -10,4 +10,4 @@ Allow: /
 User-agent: Google-Extended
 Allow: /
 
-Sitemap: https://example.ch/sitemap.xml
+Sitemap: https://association-en-commun.github.io/veille-minipublics/sitemap.xml
