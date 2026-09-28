@@ -19,11 +19,23 @@ def gemini(prompt, key):
     body = json.dumps({"contents": [{"parts": [{"text": prompt}]}],
                        "generationConfig": {"temperature": 0.3}}).encode()
     req = urllib.request.Request(url, data=body, headers={"Content-Type": "application/json"})
-    try:
-        with urllib.request.urlopen(req, timeout=120) as r:
-            d = json.loads(r.read().decode())
-    except urllib.error.HTTPError as e:
-        raise RuntimeError(f"Gemini {e.code}: {e.read().decode()[:300]}") from e
+    import time
+    last_err = None
+    for attempt in range(4):  # 503/429 = surcharge transitoire → backoff 5/15/45 s
+        try:
+            with urllib.request.urlopen(req, timeout=120) as r:
+                d = json.loads(r.read().decode())
+            break
+        except urllib.error.HTTPError as e:
+            body = e.read().decode()[:300]
+            last_err = RuntimeError(f"Gemini {e.code}: {body}")
+            if e.code in (429, 503) and attempt < 3:
+                time.sleep([5, 15, 45][attempt])
+                req = urllib.request.Request(url, data=body2, headers={"Content-Type": "application/json"}) if False else req
+                continue
+            raise last_err from e
+    else:
+        raise last_err
     return d["candidates"][0]["content"]["parts"][0]["text"]
 
 
