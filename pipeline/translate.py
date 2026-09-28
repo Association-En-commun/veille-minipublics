@@ -11,7 +11,7 @@ from pathlib import Path
 
 BASE = Path(__file__).resolve().parent.parent
 LANGS = {"de": "allemand (Suisse)", "it": "italien (Suisse)"}
-MODEL = "gemini-2.5-flash-lite"  # quota free-tier par modèle ; 3.8-flash (alias flash-latest) épuisé
+MODEL = "gemini-3.5-flash-lite"  # 2.5* fermé aux nouveaux projets (cf. 404 run 36393505078)
 
 
 def gemini(prompt, key):
