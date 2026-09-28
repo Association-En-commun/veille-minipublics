@@ -209,7 +209,7 @@ def main():
         '<?xml version="1.0" encoding="UTF-8"?>'
         '<rss version="2.0"><channel>'
         "<title>MiniPublic Veille</title>"
-        "<link>https://example.ch/</link>"
+        "<link>https://association-en-commun.github.io/veille-minipublics/</link>"
         "<description>Veille trilingue des mini-publics en Suisse</description>"
         f"<lastBuildDate>{now}</lastBuildDate>"
         + rss_items(all_articles) + "</channel></rss>",
@@ -220,16 +220,16 @@ def main():
         d = af.stem
         pod_items += (
             f"<item><title>MiniPublic Veille — digest {d}</title>"
-            f"<link>https://example.ch/audio/{af.name}</link>"
+            f"<link>https://association-en-commun.github.io/veille-minipublics/audio/{af.name}</link>"
             f"<pubDate>{d} 06:00:00 GMT</pubDate>"
-            f'<enclosure url="https://example.ch/audio/{af.name}" length="{af.stat().st_size}" type="audio/mpeg"/>'
+            f'<enclosure url="https://association-en-commun.github.io/veille-minipublics/audio/{af.name}" length="{af.stat().st_size}" type="audio/mpeg"/>'
             "</item>"
         )
     (SITE / "podcast.xml").write_text(
         '<?xml version="1.0" encoding="UTF-8"?>'
         '<rss version="2.0" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd"><channel>'
         "<title>MiniPublic Veille Podcast</title>"
-        "<link>https://example.ch/</link>"
+        "<link>https://association-en-commun.github.io/veille-minipublics/</link>"
         "<description>Podcast bilingue/trilingue des digests veille mini-publics</description>"
         f"<lastBuildDate>{now}</lastBuildDate>"
         + pod_items + "</channel></rss>",
@@ -243,7 +243,7 @@ def main():
         "User-agent: ClaudeBot\nAllow: /\n"
         "User-agent: PerplexityBot\nAllow: /\n"
         "User-agent: Google-Extended\nAllow: /\n"
-        f"\nSitemap: https://example.ch/sitemap.xml\n",
+        f"\nSitemap: https://association-en-commun.github.io/veille-minipublics/sitemap.xml\n",
         encoding="utf-8",
     )
     for lang in ("fr", "de", "it"):
@@ -264,9 +264,9 @@ def main():
     (SITE / "sitemap.xml").write_text(
         '<?xml version="1.0" encoding="UTF-8"?>'
         '<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">'
-        '<url><loc>https://example.ch/</loc></url>'
-        '<url><loc>https://example.ch/de.html</loc></url>'
-        '<url><loc>https://example.ch/it.html</loc></url></urlset>',
+        '<url><loc>https://association-en-commun.github.io/veille-minipublics/</loc></url>'
+        '<url><loc>https://association-en-commun.github.io/veille-minipublics/de.html</loc></url>'
+        '<url><loc>https://association-en-commun.github.io/veille-minipublics/it.html</loc></url></urlset>',
         encoding="utf-8",
     )
     print(f"Site OK — {len(all_articles)} articles (fr:{len(by_lang['fr'])} de:{len(by_lang['de'])} it:{len(by_lang['it'])}), "
