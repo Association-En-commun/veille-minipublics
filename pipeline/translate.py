@@ -30,8 +30,9 @@ def gemini(prompt, key):
             body = e.read().decode()[:800]
             last_err = RuntimeError(f"Gemini {e.code}: {body}")
             if e.code in (429, 503) and attempt < 3:
-                time.sleep([5, 15, 45][attempt])
-                req = urllib.request.Request(url, data=body2, headers={"Content-Type": "application/json"}) if False else req
+                m = re.search(r"retry in ([0-9.]+)s", body, re.I)
+                wait = float(m.group(1)) + 5 if m else [10, 30, 60][attempt]
+                time.sleep(min(wait, 120))
                 continue
             if attempt >= 3:
                 list_models(key)
