@@ -11,7 +11,7 @@ from pathlib import Path
 
 BASE = Path(__file__).resolve().parent.parent
 LANGS = {"de": "allemand (Suisse)", "it": "italien (Suisse)"}
-MODEL = "gemini-3.8-flash"  # 2.0 retiré, 2.5 "no longer available to new users" (404, cf. log run 36390526885)
+MODEL = "gemini-flash-latest"  # alias stable ; 3.8-flash persistait en 503 (log 36391349122)
 
 
 def gemini(prompt, key):
