@@ -33,10 +33,23 @@ def gemini(prompt, key):
                 time.sleep([5, 15, 45][attempt])
                 req = urllib.request.Request(url, data=body2, headers={"Content-Type": "application/json"}) if False else req
                 continue
+            if attempt >= 3:
+                list_models(key)
             raise last_err from e
     else:
         raise last_err
     return d["candidates"][0]["content"]["parts"][0]["text"]
+
+
+def list_models(key):
+    url = f"https://generativelanguage.googleapis.com/v1beta/models?key={key}&pageSize=100"
+    try:
+        with urllib.request.urlopen(url, timeout=60) as r:
+            d = json.loads(r.read().decode())
+        names = [m["name"] for m in d.get("models", []) if "generateContent" in m.get("supportedGenerationMethods", [])]
+        print("MODELS DISPONIBLES:", ", ".join(sorted(names)))
+    except Exception as e:
+        print("ListModels échec:", e)
 
 
 def translate_digest(md_text, lang, key):
