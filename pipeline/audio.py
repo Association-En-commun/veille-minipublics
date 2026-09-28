@@ -72,6 +72,21 @@ def ensure_edge_tts():
             return False
 
 
+def ensure_ffmpeg():
+    """Retourne un exécutable ffmpeg : binaire système sinon imageio-ffmpeg (pip, statique)."""
+    import shutil
+    f = shutil.which("ffmpeg")
+    if f:
+        return f
+    try:
+        import imageio_ffmpeg  # noqa
+    except ImportError:
+        subprocess.run([sys.executable, "-m", "pip", "install", "--quiet", "imageio-ffmpeg"],
+                       check=True, timeout=600)
+    import imageio_ffmpeg
+    return imageio_ffmpeg.get_ffmpeg_exe()
+
+
 def synth_dialogue(dialogue, lang, out_mp3: Path):
     """Synthèse réplique par réplique (2 voix) + assemblage ffmpeg."""
     import asyncio
@@ -93,7 +108,8 @@ def synth_dialogue(dialogue, lang, out_mp3: Path):
         raise RuntimeError("aucune réplique synthétisée")
     listing = tmp / "list.txt"
     listing.write_text("".join(f"file '{s.name}'\n" for s in segs), encoding="utf-8")
-    subprocess.run(["ffmpeg", "-y", "-f", "concat", "-safe", "0", "-i", str(listing),
+    ffmpeg = ensure_ffmpeg()
+    subprocess.run([ffmpeg, "-y", "-f", "concat", "-safe", "0", "-i", str(listing),
                     "-c:a", "libmp3lame", "-q:a", "4", str(out_mp3)],
                    check=True, timeout=600, capture_output=True)
     for s in segs:
