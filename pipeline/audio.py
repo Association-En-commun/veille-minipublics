@@ -28,6 +28,8 @@ DIALOGUE_PROMPT = """Tu écris le script d'un podcast à deux voix (une animatri
 
 Réponds UNIQUEMENT en JSON : {{"dialogue": [{{"speaker": "A", "text": "..."}}, {{"speaker": "B", "text": "..."}}]}}
 
+LANGUE IMPÉRATIVE : 100 % des répliques en {lang_name} — AUCUN mot d'une autre langue, même pas les titres d'articles (traduis-les ou paraphrase-les).
+
 CONTENU :
 """
 
