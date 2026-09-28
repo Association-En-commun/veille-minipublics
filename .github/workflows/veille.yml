@@ -16,6 +16,8 @@ jobs:
       - name: Install deps
         run: pip install pyyaml
       - name: Run veille
+        env:
+          GEMINI_API_KEY: ${{ secrets.GEMINI_API_KEY }}
         run: python3 pipeline/veille.py
       - name: Build site
         run: python3 pipeline/build_site.py
