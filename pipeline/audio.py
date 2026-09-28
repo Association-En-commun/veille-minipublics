@@ -55,6 +55,58 @@ def make_podcast(md_path: Path, out_mp3: Path, lang: str):
     print(f"Podcast {lang} OK → {out_mp3}")
 
 
+def _md_to_speech_text(md_text: str) -> str:
+    """Aplatit un digest Markdown en texte parlable (titre + résumés des items)."""
+    import re
+    lines = []
+    for line in md_text.splitlines():
+        s = line.strip()
+        if not s:
+            continue
+        if s.startswith("#"):
+            s = s.lstrip("#").strip()
+        s = re.sub(r"\*\*(.+?)\*\*", r"\1", s)          # gras
+        s = re.sub(r"\[(.+?)\]\((https?://[^)]+)\)", r"\1", s)  # liens → texte seul
+        s = re.sub(r"https?://\S+", "", s).strip(" -–—*")
+        if s:
+            lines.append(s + ".")
+    return " ".join(lines)
+
+
+def edge_fallback(md_path: Path, out_mp3: Path, lang: str):
+    """Fallback garanti : narration simple 1 voix via edge-tts (voix neurales Edge)."""
+    voices = {
+        "fr": "fr-FR-DeniseNeural",
+        "de": "de-CH-LeniNeural",
+        "it": "it-IT-ElsaNeural",
+    }
+    voice = voices.get(lang, voices["fr"])
+    try:
+        subprocess.run([sys.executable, "-m", "pip", "install", "--quiet", "edge-tts"],
+                       check=True, timeout=300)
+        import edge_tts
+    except Exception as e:
+        print(f"Fallback edge-tts indisponible : {e}")
+        return False
+    text = _md_to_speech_text(md_path.read_text(encoding="utf-8"))[:4500]
+    out_mp3.parent.mkdir(parents=True, exist_ok=True)
+    try:
+        communicate = edge_tts.Communicate(text, voice)
+        import asyncio
+        asyncio.run(communicate.save(str(out_mp3)))
+    except Exception as e:
+        # Certains runtimes ont déjà une boucle asyncio : cheminement CLI direct
+        try:
+            subprocess.run([sys.executable, "-m", "edge_tts", "--voice", voice,
+                            "--text", text, "--write-media", str(out_mp3)],
+                           check=True, timeout=300)
+        except Exception as e2:
+            print(f"Fallback edge-tts échec (non fatal) : {e} / {e2}")
+            return False
+    print(f"Podcast {lang} (fallback edge-tts) OK → {out_mp3}")
+    return True
+
+
 def main():
     key = os.environ.get("GEMINI_API_KEY", "")
     if not key:
@@ -84,6 +136,8 @@ def main():
             ok += 1
         except Exception as e:
             print(f"Podcast {lang} ÉCHEC (non fatal) : {e}")
+            if edge_fallback(md, out, lang):
+                ok += 1
     print(f"Audio : {ok}/{len(targets)} fichiers")
     return 0
 

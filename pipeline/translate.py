@@ -11,7 +11,7 @@ from pathlib import Path
 
 BASE = Path(__file__).resolve().parent.parent
 LANGS = {"de": "allemand (Suisse)", "it": "italien (Suisse)"}
-MODEL = "gemini-2.0-flash"
+MODEL = "gemini-2.5-flash"  # gemini-2.0-flash retiré par Google (404)
 
 
 def gemini(prompt, key):
