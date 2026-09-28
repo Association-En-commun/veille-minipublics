@@ -11,7 +11,7 @@ from pathlib import Path
 
 BASE = Path(__file__).resolve().parent.parent
 LANGS = {"de": "allemand (Suisse)", "it": "italien (Suisse)"}
-MODEL = "gemini-2.0-flash"
+MODEL = "gemini-3.5-flash-lite"  # 2.5* fermé aux nouveaux projets (cf. 404 run 36393505078)
 
 
 def gemini(prompt, key):
@@ -19,9 +19,38 @@ def gemini(prompt, key):
     body = json.dumps({"contents": [{"parts": [{"text": prompt}]}],
                        "generationConfig": {"temperature": 0.3}}).encode()
     req = urllib.request.Request(url, data=body, headers={"Content-Type": "application/json"})
-    with urllib.request.urlopen(req, timeout=120) as r:
-        d = json.loads(r.read().decode())
+    import time
+    last_err = None
+    for attempt in range(4):  # 503/429 = surcharge transitoire → backoff 5/15/45 s
+        try:
+            with urllib.request.urlopen(req, timeout=120) as r:
+                d = json.loads(r.read().decode())
+            break
+        except urllib.error.HTTPError as e:
+            body = e.read().decode()[:800]
+            last_err = RuntimeError(f"Gemini {e.code}: {body}")
+            if e.code in (429, 503) and attempt < 3:
+                m = re.search(r"retry in ([0-9.]+)s", body, re.I)
+                wait = float(m.group(1)) + 5 if m else [10, 30, 60][attempt]
+                time.sleep(min(wait, 120))
+                continue
+            if attempt >= 3:
+                list_models(key)
+            raise last_err from e
+    else:
+        raise last_err
     return d["candidates"][0]["content"]["parts"][0]["text"]
+
+
+def list_models(key):
+    url = f"https://generativelanguage.googleapis.com/v1beta/models?key={key}&pageSize=100"
+    try:
+        with urllib.request.urlopen(url, timeout=60) as r:
+            d = json.loads(r.read().decode())
+        names = [m["name"] for m in d.get("models", []) if "generateContent" in m.get("supportedGenerationMethods", [])]
+        print("MODELS DISPONIBLES:", ", ".join(sorted(names)))
+    except Exception as e:
+        print("ListModels échec:", e)
 
 
 def translate_digest(md_text, lang, key):
