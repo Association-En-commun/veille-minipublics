@@ -12,7 +12,7 @@ import urllib.request
 from pathlib import Path
 
 BASE = Path(__file__).resolve().parent.parent
-MODEL = os.environ.get("GEMINI_MODEL", "gemini-2.5-flash")
+MODEL = os.environ.get("GEMINI_MODEL", "gemini-3.5-flash-lite")
 
 PROMPT = """Tu es analyste pour En Commun, bureau suisse expert des mini-publics (assemblées de citoyens tirés au sort) et de la démocratie délibérative.
 

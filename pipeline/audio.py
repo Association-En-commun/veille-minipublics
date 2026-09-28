@@ -14,7 +14,7 @@ from pathlib import Path
 
 BASE = Path(__file__).resolve().parent.parent
 OUT = BASE / "site" / "audio"
-MODEL = os.environ.get("GEMINI_MODEL", "gemini-2.5-flash")
+MODEL = os.environ.get("GEMINI_MODEL", "gemini-3.5-flash-lite")
 
 VOICE_MAP = {
     "fr": ("fr-FR-DeniseNeural", "fr-FR-HenriNeural"),
