@@ -6,6 +6,7 @@ Génère aussi : RSS feed, sitemap, llms.txt, robots.txt (couche GEO, §7).
 """
 import re
 import html
+import json
 from datetime import datetime, timezone
 from pathlib import Path
 
@@ -95,6 +96,53 @@ def lang_nav(active="fr"):
     )
 
 
+def load_fiches():
+    """Charge toutes les fiches enrichies digests/fiches-*.json → {slug: fiche}."""
+    fiches = {}
+    for p in sorted(DIGESTS.glob("fiches-*.json")):
+        try:
+            fiches.update(json.loads(p.read_text(encoding="utf-8")))
+        except Exception:
+            pass
+    return fiches
+
+
+def fiche_slug(title):
+    return re.sub(r"\W+", "-", title.lower())[:60].strip("-")
+
+
+FICHE_LABELS = [
+    ("resume_detaille", "Ce qu'il faut retenir"),
+    ("date_publication", "Date de publication"),
+    ("qui_porte", "Qui porte le dispositif"),
+    ("composition_minipublic", "Composition du mini-public"),
+    ("objet_deliberation", "Objet de la délibération"),
+    ("role_decisionnel", "Rôle décisionnel / consultatif"),
+    ("etapes_procedure", "Étapes de la procédure"),
+    ("etat_avancement", "Où en est-on"),
+    ("auteur_media", "Qui écrit / média"),
+    ("interet_ec", "Intérêt pour En Commun"),
+]
+
+
+def fiche_html(title, fiches):
+    f = fiches.get(fiche_slug(title))
+    if not f:
+        return ""
+    rows = []
+    for key, label in FICHE_LABELS:
+        val = f.get(key)
+        if not val:
+            continue
+        if key == "etapes_procedure":
+            if isinstance(val, list):
+                val = " → ".join(str(v) for v in val)
+        rows.append(f"<div class='fiche-row'><strong>{label} :</strong> {html.escape(str(val))}</div>")
+    if not rows:
+        return ""
+    return "<details class='fiche'><summary>📋 Brief détaillé (analyse IA)</summary>" + "".join(rows) + "</details>"
+
+
 def main():
     dates = sorted((p for p in DIGESTS.glob("digest-*.md")), reverse=True)
     all_articles = []
@@ -114,6 +162,7 @@ def main():
     audio_files = sorted(AUDIO.glob("*.mp3"), reverse=True) if AUDIO.exists() else []
 
     for lang in ("fr", "de", "it"):
+        fiches = load_fiches() if lang == "fr" else {}
         arts_html = []
         for a in by_lang[lang]:
             safe_title = html.escape(a["title"])
@@ -122,7 +171,8 @@ def main():
             arts_html.append(
                 f'<article><h2>{title_html}<span class="badge">{a["date"]}</span></h2>'
                 f'<div class="meta">{html.escape(a["meta"])}</div>'
-                f'<p>{html.escape(a["summary"])}</p></article>'
+                f'<p>{html.escape(a["summary"])}</p>'
+                f'{fiche_html(a["title"], fiches)}</article>'
             )
         audio_html = ""
         for af in audio_files:

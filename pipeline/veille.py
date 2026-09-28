@@ -159,7 +159,12 @@ def main():
     if errors:
         print("Erreurs:", *errors, sep="\n  ", file=sys.stderr)
 
-    # Phases 1 & 2 : traduction LLM puis podcast (non fatals — le site reste FR seul si échec)
+    # Phases 1 & 2 : enrichissement, traduction LLM puis podcast (non fatals — le site reste FR seul si échec)
+    try:
+        subprocess.run([sys.executable, str(BASE / "pipeline" / "enrich.py")],
+                       check=False, timeout=1800)
+    except Exception as e:
+        print(f"Enrichissement sauté : {e}", file=sys.stderr)
     try:
         subprocess.run([sys.executable, str(BASE / "pipeline" / "translate.py")],
                        check=False, timeout=900)
