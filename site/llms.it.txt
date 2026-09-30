@@ -3,6 +3,7 @@
 L'osservatorio trilingue dei minipubblici e della democrazia deliberativa in Svizzera.
 Fiches datées et sourcées, générées par pipeline automatisée avec cadrage éditorial humain (En Commun).
 
+- [Errori di raccolta]() : mini-publics/démocratie délibérative (2026-09-30)
 - [1. Judith Bernard : « Le tirage au sort rappelle à chacun qu’il est citoyen » - revue-ball]() : mini-publics/démocratie délibérative (2026-09-28)
 - [2. Dänemark: Bürgerrat fordert weniger Schweine - Der Schweizer Bauer]() : mini-publics/démocratie délibérative (2026-09-28)
 - [3. Le CESE lance le tirage au sort des 150 citoyennes et citoyens de la Convention citoyen]() : mini-publics/démocratie délibérative (2026-09-28)

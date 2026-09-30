@@ -3,6 +3,9 @@
 Veille trilingue (FR/DE/IT) des mini-publics et de la démocratie délibérative en Suisse.
 Fiches datées et sourcées, générées par pipeline automatisée avec cadrage éditorial humain (En Commun).
 
+- [Erreurs de collecte]() : mini-publics/démocratie délibérative (2026-09-30)
+- [Errori di raccolta]() : mini-publics/démocratie délibérative (2026-09-30)
+- [Sammelfehler]() : mini-publics/démocratie délibérative (2026-09-30)
 - [1. Judith Bernard : « Le tirage au sort rappelle à chacun qu’il est citoyen » - revue-ball](https://news.google.com/rss/articles/CBMikAFBVV95cUxQbHIxU3czQjlEWWFFdGhQeW1McE5xNmR3WTRER2tWeGRwY1JwV29FRkdMT3MxcHlDeXVrOF96ZGQtcndGMExfdmZzc3VXY2kwTlNudkhVR3Q2OTYzQ2hDZWNQbnB1MGFkUXl4aUV2eWNjU2VMdTFYTG1hdW9QUENBOURvYVBmaDZmMUt2RnVqYW0?oc=5) : mini-publics/démocratie délibérative (2026-09-28)
 - [2. Dänemark: Bürgerrat fordert weniger Schweine - Der Schweizer Bauer](https://news.google.com/rss/articles/CBMiiwFBVV95cUxOcTJSVk1kY0hGd2hlVGdwdDNzTE9MNFoxQW9NMlpqNzQ4SUJtTVZ1a2dEU0NZN2U0UzA1RXc5Z2RUZ05rMDRrbHJOcjgwUlpOemhTUXFZcDFlamJmQWtPeXZneG9ZazNDVERzc1pkZl9NWnVNSUMwMFdnZmc4YlMtdFpiSF9laWN5SFF3?oc=5) : mini-publics/démocratie délibérative (2026-09-28)
 - [3. Abgesagter Bürgerrat: Ein schlechtes Signal aus der Schweiz in Zeiten von Demokratieabb](https://news.google.com/rss/articles/CBMi5wFBVV95cUxPem82blBNVUZET25ITWdJMF91aWJ3M2EtYnhVT29jUlYyQjlYVHRfa3hucjA4Z0JnTWF4alExVnY4SkdnZUJic1hLaklrNmoyU1Zpa3RDaW9UcllUOWV5S0pNb1NLdDJhNEtwRVhXV3EyWHlKa3BGV2FKcWh6S3FxaF9QOGYzUjk3TkdRa0lLdzhVTXNxTWRkdUtfUFlaeEJZZ19KV09ZeVRfVlpHWXZhYnpiYWtXNmJRY2p0Z0JtM2VrVzgwMDM5XzRwbEMzN041cnpyVXNINFAxZGNXa2FGR2xoQURZbHc?oc=5) : mini-publics/démocratie délibérative (2026-09-28)
@@ -20,6 +23,3 @@ Fiches datées et sourcées, générées par pipeline automatisée avec cadrage 
 - [3. Le CESE lance le tirage au sort des 150 citoyennes et citoyens de la Convention citoyen]() : mini-publics/démocratie délibérative (2026-09-28)
 - [4. Lancement du tirage au sort pour la Convention citoyenne sur les temps de l&#x27;enfant]() : mini-publics/démocratie délibérative (2026-09-28)
 - [5. Frouzins. Tirage au sort du conseil citoyen - ladepeche.fr]() : mini-publics/démocratie délibérative (2026-09-28)
-- [6. Rhône. Vénissieux : le nouveau conseil citoyen désigné par tirage au sort - Le Progrès]() : mini-publics/démocratie délibérative (2026-09-28)
-- [7. Politique de la ville - Tirage au sort du Conseil citoyen qui représentera les habitant]() : mini-publics/démocratie délibérative (2026-09-28)
-- [8. Gegen Schluss wird es an der Bürgerversammlung in Rapperswil-Jona hitzig - Südostschwei]() : mini-publics/démocratie délibérative (2026-09-28)
