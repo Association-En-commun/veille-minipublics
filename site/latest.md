@@ -1,6 +1,6 @@
-# Digest veille MiniPublic — 2026-10-09
+# Digest veille MiniPublic — 2026-10-12
 
-_Pipeline automatisée — 183 items collectés, 12 retenus (seuil ≥ 3). Sources : 3 flux._
+_Pipeline automatisée — 180 items collectés, 12 retenus (seuil ≥ 3). Sources : 3 flux._
 
 ## 1. Judith Bernard : « Le tirage au sort rappelle à chacun qu’il est citoyen » - Revue Ballast
 
