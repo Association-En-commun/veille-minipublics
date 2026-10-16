@@ -1,6 +1,6 @@
-# Digest veille MiniPublic — 2026-10-14
+# Digest veille MiniPublic — 2026-10-16
 
-_Pipeline automatisée — 180 items collectés, 10 retenus (seuil ≥ 3). Sources : 3 flux._
+_Pipeline automatisée — 173 items collectés, 9 retenus (seuil ≥ 3). Sources : 3 flux._
 
 ## 1. Judith Bernard : « Le tirage au sort rappelle à chacun qu’il est citoyen » - Revue Ballast
 
@@ -12,7 +12,7 @@ Judith Bernard : « Le tirage au sort rappelle à chacun qu’il est citoyen »�
 ## 2. Dänemark: Bürgerrat fordert weniger Schweine - Der Schweizer Bauer
 
 - **Score** : 5 (Bürgerrat, Schweiz (CH)) · **Source** : news-de · **Langue** : de
-- **Lien** : https://news.google.com/rss/articles/CBMinwFBVV95cUxNYWFKTVl1dHpfNmd5NGp0SnlFQTJBejVOVDlMWTh5UGxMNW5xbjB6eWg4VHR1WWlkT0tmX3BESHNKUlV5T3ktQ0xablVBMHdYSUFiYm5lRlFMOE5OZWQ5djFNTW83Q0VpZXgwbHp1X29HY2JRMldEUWR1SEtGWFBZUzYtd0ptdTR6dDRaRnN4bFlNaW8tTVNkQUxaeFU2VlE?oc=5
+- **Lien** : https://news.google.com/rss/articles/CBMiiwFBVV95cUxOcTJSVk1kY0hGd2hlVGdwdDNzTE9MNFoxQW9NMlpqNzQ4SUJtTVZ1a2dEU0NZN2U0UzA1RXc5Z2RUZ05rMDRrbHJOcjgwUlpOemhTUXFZcDFlamJmQWtPeXZneG9ZazNDVERzc1pkZl9NWnVNSUMwMFdnZmc4YlMtdFpiSF9laWN5SFF3?oc=5
 
 Dänemark: Bürgerrat fordert weniger Schweine  Der Schweizer Bauer
 
@@ -58,14 +58,7 @@ Rhône. Vénissieux : le nouveau conseil citoyen désigné par tirage au sort �
 
 Politique de la ville - Tirage au sort du Conseil citoyen qui représentera les habitants du quartier Stade-Messier dans l’élaboration du contrat de ville.. Luxeuil : le Conseil citoyen recrute  L'Est Républicain
 
-## 9. Spitzenwechsel bei der UWV Engen: Dominik Garcia übernimmt Vorsitz - Südkurier
-
-- **Score** : 3 (Bern (CH)) · **Source** : news-de · **Langue** : de
-- **Lien** : https://news.google.com/rss/articles/CBMiywFBVV95cUxNeUI5R3A4X3NmZXBxT0h2RnE3X3RNcmdfaWpxNHhfUU1nYWhSYmNEZDNPUzFXdktlODNwOWNVYld2ZGo0RnRBc0dEMk5qTGpYYi1mTXBZSzFzNnRPSE5PN3BWSkxkdEF5NzE0ZXFvQ2hpaEc3S2Fhc09RUDJTZDFwdnNhQmxCZVRNUEYtMGgzc1J5enhCWkFhWXFJOWRQa19vOTJ5QWtOblR2Q25yVmJwbU9qXzhUakhaRzZPa3habGZqWHVia3E5UVpzYw?oc=5
-
-Spitzenwechsel bei der UWV Engen: Dominik Garcia übernimmt Vorsitz  Südkurier
-
-## 10. Gegen Schluss wird es an der Bürgerversammlung in Rapperswil-Jona hitzig - Südostschweiz
+## 9. Gegen Schluss wird es an der Bürgerversammlung in Rapperswil-Jona hitzig - Südostschweiz
 
 - **Score** : 3 (Schweiz (CH)) · **Source** : news-de · **Langue** : de
 - **Lien** : https://news.google.com/rss/articles/CBMiuAFBVV95cUxQMndRcXd4b3VxVVhNVzdTblF0cE1WQy05T1FXTmtEVnJGUzdCVTFwRFp2TWdkcnlrd3hSdFNrU2NrVTJhSkhHMHFWbURHRHJ1STk5eko1U0JIMWQ0VmRRTS1ZTmlNWTBBXzVGZXpta1lCQlJNVFk2UzdodGNVZjFyWXlIcWFacEJpQTBJNkRYcVdFZ2ZoMmRlMTU5VHFIMkJKMXNZQzQ5N2VGSHBwcUVGaXRFaVlrVUth?oc=5
