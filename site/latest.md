@@ -1,4 +1,4 @@
-# Digest veille MiniPublic — 2026-10-16
+# Digest veille MiniPublic — 2026-10-19
 
 _Pipeline automatisée — 173 items collectés, 9 retenus (seuil ≥ 3). Sources : 3 flux._
 
@@ -30,33 +30,33 @@ Le CESE lance le tirage au sort des 150 citoyennes et citoyens de la Convention 
 
 Lancement du tirage au sort pour la Convention citoyenne sur les temps de l'enfant  Le Conseil économique social et environnemental
 
-## 5. Frouzins. Tirage au sort du conseil citoyen - ladepeche.fr
+## 5. Comment se déroule le tirage au sort de la Convention citoyenne ? - Convention Citoyenne sur le temps de l'enfant
+
+- **Score** : 4 (convention citoyenne, tirage au sort) · **Source** : news-fr · **Langue** : fr
+- **Lien** : https://news.google.com/rss/articles/CBMiwAFBVV95cUxOa2ROLWoxZTRmM1M2eFozMGROQlFCb096cEFFZTdqdjl5S0ZYUnlqN2g4UktjeVFBVWk5M245REdLZmI5MGxta21qTDJoeS11dFVRcnVpelJ4a2hvdms4TXNXVW43ajVPR1Q0eHpoVWdCcnRjRmsxRlZYT1JqUkhJczhGN0FuVWdKSjZacVFTLTNNbGxFWXZLaHl4Xy1KTEhLemhadjZLOW5fQldLVE9leUpzTGJHSU0wVDI5VHVaVEY?oc=5
+
+Comment se déroule le tirage au sort de la Convention citoyenne ?  Convention Citoyenne sur le temps de l'enfant
+
+## 6. Frouzins. Tirage au sort du conseil citoyen - ladepeche.fr
 
 - **Score** : 4 (tirage au sort, conseil citoyen) · **Source** : news-fr · **Langue** : fr
 - **Lien** : https://news.google.com/rss/articles/CBMiigFBVV95cUxQWWY2UDlZeG9CMFNHQXNfcmJMMWtvTnM2YVZBSkYzbzBaY3gwRkQwNVY5UC1wTmR5Mm9LUDlhN1ZGSW1zNEpfbFVESnl3VUk1cHUzZmI1N01ZWVFLdXdjN2QxV243NnpuT3FPR0wxY3VTenlxbnBpTDJVU2kzbDN5QVZDUDRISWFUZ3c?oc=5
 
 Frouzins. Tirage au sort du conseil citoyen  ladepeche.fr
 
-## 6. Behren-lès-Forbach. Ils lancent une pétition pour l’annulation du tirage au sort du nouveau conseil citoyen - Le Republicain Lorrain
+## 7. Behren-lès-Forbach. Ils lancent une pétition pour l’annulation du tirage au sort du nouveau conseil citoyen - Le Republicain Lorrain
 
 - **Score** : 4 (tirage au sort, conseil citoyen) · **Source** : news-fr · **Langue** : fr
 - **Lien** : https://news.google.com/rss/articles/CBMi2AFBVV95cUxPT2R5TmZoUDJFUXJ4U1JFZzFVS1lhYmVJanRENlFIRnp5VGlRTFFwU3BidkE4T2RXMTVrWkhIa3p2RVV3Z29VV2tONUF3RjJmSGtRcExYajNVZ1JPZkgzTXUtTmxsMEpOT1BEWWNFQ0RvNUUyQzEzLWdaSHBpNElSN3Nwc3dRcURFb3NYQTJsY1locVpfWXhjWnlzcFhHdEhOQ0lHbG41QnM4RFJ2TU5ETEdEcVRDNWVnZXU0SlpLUFhLVXhHZ0U5UkNzRVZsekRvWTVXdG9tSDk?oc=5
 
 Behren-lès-Forbach. Ils lancent une pétition pour l’annulation du tirage au sort du nouveau conseil citoyen  Le Republicain Lorrain
 
-## 7. Rhône. Vénissieux : le nouveau conseil citoyen désigné par tirage au sort - Le Progrès
+## 8. Rhône. Vénissieux : le nouveau conseil citoyen désigné par tirage au sort - Le Progrès
 
 - **Score** : 4 (tirage au sort, conseil citoyen) · **Source** : news-fr · **Langue** : fr
 - **Lien** : https://news.google.com/rss/articles/CBMiygFBVV95cUxPTGRkVnVYRTNYbmJSaGhqNnQ4ZXlsY1EtMEZjbmlweDFZTWRSeUlLVllVOG1nREJVVmwyempjTTZyb3YzbnRoZVRPdUpFdWY5cmp1VE9VbGhpbnYtcElNRWhSV0tuT25lWXZEZjNHMkVKMVZqRDhwMzlJMWJkaGtXRHJ1M2ZVdnFvSzNZZnp1a25abUhIRGlXd2dVWmM5MzhISmp5SmxMTnFuV2hBV1k3Mmt4QjZoQjIxNmRSNEI3LThCT1RSUzJBczJn?oc=5
 
 Rhône. Vénissieux : le nouveau conseil citoyen désigné par tirage au sort  Le Progrès
-
-## 8. Politique de la ville - Tirage au sort du Conseil citoyen qui représentera les habitants du quartier Stade-Messier dans l’élaboration du contrat de ville.. Luxeuil : le Conseil citoyen recrute - L'Est Républicain
-
-- **Score** : 4 (tirage au sort, conseil citoyen) · **Source** : news-fr · **Langue** : fr
-- **Lien** : https://news.google.com/rss/articles/CBMiqAFBVV95cUxQV3BTUWpRNktSN1hxMnZiR0NNc2NwbzZEMzNycV9XWlZoWGo1ak45RjBaQnVSX2plTmdIaWdjNVllRDhaMjlKbHdWc2RnOU5wRmdUZC1pcXl4MEMxUUJsSFV6b21ySXlJQjc3aXpFVlFvY19xTTlXTXZMVlFma09oSFZSYVRQUHhLbDNMVVZkbVROOFBJQzJhOHY2SThBNG1nSWtkbGVUV3M?oc=5
-
-Politique de la ville - Tirage au sort du Conseil citoyen qui représentera les habitants du quartier Stade-Messier dans l’élaboration du contrat de ville.. Luxeuil : le Conseil citoyen recrute  L'Est Républicain
 
 ## 9. Gegen Schluss wird es an der Bürgerversammlung in Rapperswil-Jona hitzig - Südostschweiz
 
