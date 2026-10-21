@@ -1,6 +1,6 @@
-# Digest veille MiniPublic — 2026-10-19
+# Digest veille MiniPublic — 2026-10-21
 
-_Pipeline automatisée — 173 items collectés, 9 retenus (seuil ≥ 3). Sources : 3 flux._
+_Pipeline automatisée — 173 items collectés, 8 retenus (seuil ≥ 3). Sources : 3 flux._
 
 ## 1. Judith Bernard : « Le tirage au sort rappelle à chacun qu’il est citoyen » - Revue Ballast
 
@@ -44,21 +44,14 @@ Comment se déroule le tirage au sort de la Convention citoyenne ?  Convention
 
 Frouzins. Tirage au sort du conseil citoyen  ladepeche.fr
 
-## 7. Behren-lès-Forbach. Ils lancent une pétition pour l’annulation du tirage au sort du nouveau conseil citoyen - Le Republicain Lorrain
-
-- **Score** : 4 (tirage au sort, conseil citoyen) · **Source** : news-fr · **Langue** : fr
-- **Lien** : https://news.google.com/rss/articles/CBMi2AFBVV95cUxPT2R5TmZoUDJFUXJ4U1JFZzFVS1lhYmVJanRENlFIRnp5VGlRTFFwU3BidkE4T2RXMTVrWkhIa3p2RVV3Z29VV2tONUF3RjJmSGtRcExYajNVZ1JPZkgzTXUtTmxsMEpOT1BEWWNFQ0RvNUUyQzEzLWdaSHBpNElSN3Nwc3dRcURFb3NYQTJsY1locVpfWXhjWnlzcFhHdEhOQ0lHbG41QnM4RFJ2TU5ETEdEcVRDNWVnZXU0SlpLUFhLVXhHZ0U5UkNzRVZsekRvWTVXdG9tSDk?oc=5
-
-Behren-lès-Forbach. Ils lancent une pétition pour l’annulation du tirage au sort du nouveau conseil citoyen  Le Republicain Lorrain
-
-## 8. Rhône. Vénissieux : le nouveau conseil citoyen désigné par tirage au sort - Le Progrès
+## 7. Rhône. Vénissieux : le nouveau conseil citoyen désigné par tirage au sort - Le Progrès
 
 - **Score** : 4 (tirage au sort, conseil citoyen) · **Source** : news-fr · **Langue** : fr
 - **Lien** : https://news.google.com/rss/articles/CBMiygFBVV95cUxPTGRkVnVYRTNYbmJSaGhqNnQ4ZXlsY1EtMEZjbmlweDFZTWRSeUlLVllVOG1nREJVVmwyempjTTZyb3YzbnRoZVRPdUpFdWY5cmp1VE9VbGhpbnYtcElNRWhSV0tuT25lWXZEZjNHMkVKMVZqRDhwMzlJMWJkaGtXRHJ1M2ZVdnFvSzNZZnp1a25abUhIRGlXd2dVWmM5MzhISmp5SmxMTnFuV2hBV1k3Mmt4QjZoQjIxNmRSNEI3LThCT1RSUzJBczJn?oc=5
 
 Rhône. Vénissieux : le nouveau conseil citoyen désigné par tirage au sort  Le Progrès
 
-## 9. Gegen Schluss wird es an der Bürgerversammlung in Rapperswil-Jona hitzig - Südostschweiz
+## 8. Gegen Schluss wird es an der Bürgerversammlung in Rapperswil-Jona hitzig - Südostschweiz
 
 - **Score** : 3 (Schweiz (CH)) · **Source** : news-de · **Langue** : de
 - **Lien** : https://news.google.com/rss/articles/CBMiuAFBVV95cUxQMndRcXd4b3VxVVhNVzdTblF0cE1WQy05T1FXTmtEVnJGUzdCVTFwRFp2TWdkcnlrd3hSdFNrU2NrVTJhSkhHMHFWbURHRHJ1STk5eko1U0JIMWQ0VmRRTS1ZTmlNWTBBXzVGZXpta1lCQlJNVFk2UzdodGNVZjFyWXlIcWFacEJpQTBJNkRYcVdFZ2ZoMmRlMTU5VHFIMkJKMXNZQzQ5N2VGSHBwcUVGaXRFaVlrVUth?oc=5
