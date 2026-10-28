@@ -1,13 +1,13 @@
-# Digest veille MiniPublic — 2026-10-26
+# Digest veille MiniPublic — 2026-10-28
 
-_Pipeline automatisée — 166 items collectés, 13 retenus (seuil ≥ 3). Sources : 3 flux._
+_Pipeline automatisée — 120 items collectés, 13 retenus (seuil ≥ 3). Sources : 3 flux._
 
-## 1. Judith Bernard : « Le tirage au sort rappelle à chacun qu’il est citoyen » - Revue Ballast
+## 1. Dänemark: Bürgerrat fordert weniger Schweine - Der Schweizer Bauer
 
-- **Score** : 5 (tirage au sort, Bern (CH)) · **Source** : news-fr · **Langue** : fr
-- **Lien** : https://news.google.com/rss/articles/CBMikAFBVV95cUxQbHIxU3czQjlEWWFFdGhQeW1McE5xNmR3WTRER2tWeGRwY1JwV29FRkdMT3MxcHlDeXVrOF96ZGQtcndGMExfdmZzc3VXY2kwTlNudkhVR3Q2OTYzQ2hDZWNQbnB1MGFkUXl4aUV2eWNjU2VMdTFYTG1hdW9QUENBOURvYVBmaDZmMUt2RnVqYW0?oc=5
+- **Score** : 5 (Bürgerrat, Schweiz (CH)) · **Source** : news-de · **Langue** : de
+- **Lien** : https://news.google.com/rss/articles/CBMinwFBVV95cUxNYWFKTVl1dHpfNmd5NGp0SnlFQTJBejVOVDlMWTh5UGxMNW5xbjB6eWg4VHR1WWlkT0tmX3BESHNKUlV5T3ktQ0xablVBMHdYSUFiYm5lRlFMOE5OZWQ5djFNTW83Q0VpZXgwbHp1X29HY2JRMldEUWR1SEtGWFBZUzYtd0ptdTR6dDRaRnN4bFlNaW8tTVNkQUxaeFU2VlE?oc=5
 
-Judith Bernard : « Le tirage au sort rappelle à chacun qu’il est citoyen »  Revue Ballast
+Dänemark: Bürgerrat fordert weniger Schweine  Der Schweizer Bauer
 
 ## 2. Abgesagter Bürgerrat: Ein schlechtes Signal aus der Schweiz in Zeiten von Demokratieabbau? - SWI swissinfo.ch
 
@@ -16,79 +16,79 @@ Judith Bernard : « Le tirage au sort rappelle à chacun qu’il est citoyen »�
 
 Abgesagter Bürgerrat: Ein schlechtes Signal aus der Schweiz in Zeiten von Demokratieabbau?  SWI swissinfo.ch
 
-## 3. Dänemark: Bürgerrat fordert weniger Schweine - Der Schweizer Bauer
-
-- **Score** : 5 (Bürgerrat, Schweiz (CH)) · **Source** : news-de · **Langue** : de
-- **Lien** : https://news.google.com/rss/articles/CBMinwFBVV95cUxNYWFKTVl1dHpfNmd5NGp0SnlFQTJBejVOVDlMWTh5UGxMNW5xbjB6eWg4VHR1WWlkT0tmX3BESHNKUlV5T3ktQ0xablVBMHdYSUFiYm5lRlFMOE5OZWQ5djFNTW83Q0VpZXgwbHp1X29HY2JRMldEUWR1SEtGWFBZUzYtd0ptdTR6dDRaRnN4bFlNaW8tTVNkQUxaeFU2VlE?oc=5
-
-Dänemark: Bürgerrat fordert weniger Schweine  Der Schweizer Bauer
-
-## 4. Convention citoyenne sur les finances publiques : le tirage au sort des citoyens débute - Le Conseil économique social et environnemental
+## 3. Convention citoyenne sur les finances publiques : le tirage au sort des citoyens débute - Le Conseil économique social et environnemental
 
 - **Score** : 4 (convention citoyenne, tirage au sort) · **Source** : news-fr · **Langue** : fr
 - **Lien** : https://news.google.com/rss/articles/CBMiugFBVV95cUxPNFFRM1NsUGI5LVowQTJxWlRtcURhc3BoUjJ5bGdaaU9ZcHNWTzFIeXllUTNHODQwWXJsQnNYNUs4dUpNbS1aQkhmQ082dHVYUHhRMW1tZkdsNWlESV8tQWl6Qk9BZG5JMzRkS0piVm80WVh0YlhIU2MwQ0tTa0R6Ukt5UDhMU0MySVlGUFlud1NYUExnZmZDMThuZ2loMzItWkE0UDZxSnBpdjlJWDYyMllXLWJoUFJNZ3c?oc=5
 
 Convention citoyenne sur les finances publiques : le tirage au sort des citoyens débute  Le Conseil économique social et environnemental
 
-## 5. Le CESE lance le tirage au sort des 150 citoyennes et citoyens de la Convention citoyenne sur la fin de vie - Le Conseil économique social et environnemental
+## 4. Le CESE lance le tirage au sort des 150 citoyennes et citoyens de la Convention citoyenne sur la fin de vie - Le Conseil économique social et environnemental
 
 - **Score** : 4 (convention citoyenne, tirage au sort) · **Source** : news-fr · **Langue** : fr
 - **Lien** : https://news.google.com/rss/articles/CBMi1wFBVV95cUxNNVQ1cFBlUmdITVBJeklnd25XVDZfYzNrNU9SSDlZb1BseEdIQWRTcWtIeFFuRVdfZ2ltZTNFemFEeUtYYkotMHVOOXRNeUlUaTlOSUVrUjhjc2Z0cTdmV2VVS3ZTQm9jaUNEcHZiNFJxM1RfQ19fODBSU1RtVGVXVDVBRXJEd3dudDgyejg3MWY3elFiVXA2cFlxVE5sa3RseFZXZ251TnpXTjh6aURvYVMxLTI1MGtNcHB2SkFRbm12MmxiRG8ydXZRQmlieGtDUHg5N2RZaw?oc=5
 
 Le CESE lance le tirage au sort des 150 citoyennes et citoyens de la Convention citoyenne sur la fin de vie  Le Conseil économique social et environnemental
 
-## 6. Lancement du tirage au sort pour la Convention citoyenne sur les temps de l'enfant - Le Conseil économique social et environnemental
+## 5. Lancement du tirage au sort pour la Convention citoyenne sur les temps de l'enfant - Le Conseil économique social et environnemental
 
 - **Score** : 4 (convention citoyenne, tirage au sort) · **Source** : news-fr · **Langue** : fr
 - **Lien** : https://news.google.com/rss/articles/CBMinAFBVV95cUxOYktpcHdDbVd5eFVuc0ZvT0dpVUw0S2dScUpYbGludUhUZFZJRC1hcnpuRHFzRFJXRXkwdmdKbGZTQ1doZTZqUE9GRy1ZY25TbHFOMkI4TW9WSElyU01tSUZkM3RnaEJrb283YnJhQldEMVdiZG9fcVRKcEV4aEkzQ0k4MGs2QUNIRzd4UnhuWVZlVVRBNnZ1NHJVRTM?oc=5
 
 Lancement du tirage au sort pour la Convention citoyenne sur les temps de l'enfant  Le Conseil économique social et environnemental
 
-## 7. Frouzins. Tirage au sort du conseil citoyen - ladepeche.fr
+## 6. Schule, Bahnhof und Moorschutz: Das bewegt die Menschen in Bernau - Rosenheim24
 
-- **Score** : 4 (tirage au sort, conseil citoyen) · **Source** : news-fr · **Langue** : fr
-- **Lien** : https://news.google.com/rss/articles/CBMiigFBVV95cUxQWWY2UDlZeG9CMFNHQXNfcmJMMWtvTnM2YVZBSkYzbzBaY3gwRkQwNVY5UC1wTmR5Mm9LUDlhN1ZGSW1zNEpfbFVESnl3VUk1cHUzZmI1N01ZWVFLdXdjN2QxV243NnpuT3FPR0wxY3VTenlxbnBpTDJVU2kzbDN5QVZDUDRISWFUZ3c?oc=5
+- **Score** : 3 (Bern (CH)) · **Source** : news-de · **Langue** : de
+- **Lien** : https://news.google.com/rss/articles/CBMi8gFBVV95cUxPZjlqeWl1RFN0XzU2WFRNR3I0QVhyYTZfcXhMWkwtXzZzSGhFQ2d0eVhBTnh6eW9PaGIwVmJqMEVMRUZTaWdqa285UHgyUkVVdWRYc21JNzRMeG5NRUtxeG5mbW5oTFpEdm1yaGxsVDBZMGxTY0RUbzdsUl9IeGlZSlFIN2E2ZzBROVRpV0V4S1NaRWpVYTF6aElCdDFWWWVOTjJWQlZBdzdyazg0SkZ2dlZWTmZMankyajZ5QmY0aWlNYzh3T2wzZktQUG5rNnZ2X3NnOXNLVmExSGFZNW5SYlhTWFYyZ3ktbG80RUVVTHRxUQ?oc=5
 
-Frouzins. Tirage au sort du conseil citoyen  ladepeche.fr
+Schule, Bahnhof und Moorschutz: Das bewegt die Menschen in Bernau  Rosenheim24
 
-## 8. Rhône. Vénissieux : le nouveau conseil citoyen désigné par tirage au sort - Le Progrès
-
-- **Score** : 4 (tirage au sort, conseil citoyen) · **Source** : news-fr · **Langue** : fr
-- **Lien** : https://news.google.com/rss/articles/CBMiygFBVV95cUxPTGRkVnVYRTNYbmJSaGhqNnQ4ZXlsY1EtMEZjbmlweDFZTWRSeUlLVllVOG1nREJVVmwyempjTTZyb3YzbnRoZVRPdUpFdWY5cmp1VE9VbGhpbnYtcElNRWhSV0tuT25lWXZEZjNHMkVKMVZqRDhwMzlJMWJkaGtXRHJ1M2ZVdnFvSzNZZnp1a25abUhIRGlXd2dVWmM5MzhISmp5SmxMTnFuV2hBV1k3Mmt4QjZoQjIxNmRSNEI3LThCT1RSUzJBczJn?oc=5
-
-Rhône. Vénissieux : le nouveau conseil citoyen désigné par tirage au sort  Le Progrès
-
-## 9. Gegen Schluss wird es an der Bürgerversammlung in Rapperswil-Jona hitzig - Südostschweiz
+## 7. Gegen Schluss wird es an der Bürgerversammlung in Rapperswil-Jona hitzig - Südostschweiz
 
 - **Score** : 3 (Schweiz (CH)) · **Source** : news-de · **Langue** : de
 - **Lien** : https://news.google.com/rss/articles/CBMiuAFBVV95cUxQMndRcXd4b3VxVVhNVzdTblF0cE1WQy05T1FXTmtEVnJGUzdCVTFwRFp2TWdkcnlrd3hSdFNrU2NrVTJhSkhHMHFWbURHRHJ1STk5eko1U0JIMWQ0VmRRTS1ZTmlNWTBBXzVGZXpta1lCQlJNVFk2UzdodGNVZjFyWXlIcWFacEJpQTBJNkRYcVdFZ2ZoMmRlMTU5VHFIMkJKMXNZQzQ5N2VGSHBwcUVGaXRFaVlrVUth?oc=5
 
 Gegen Schluss wird es an der Bürgerversammlung in Rapperswil-Jona hitzig  Südostschweiz
 
-## 10. Bürgerversammlung Selb: Mehr Übernachtungen und positives Pendlersaldo - Frankenpost
+## 8. Trinkwasser, Müll und Rambo-Radler: Was die Menschen in Bernau am meisten bewegt - Rosenheim24
 
 - **Score** : 3 (Bern (CH)) · **Source** : news-de · **Langue** : de
-- **Lien** : https://news.google.com/rss/articles/CBMi4AFBVV95cUxNSjBvdnFMd3Frb1V5aEJTWnlHMEJXVjF1LTd0c2VBSW9PaXdsa2FSMUJWbE5vYWxsOEN2NXZJcUs3TDNkREJyX1N5Y1ZNVGowMmNLdldtSkFFNlZoOXZ3Rkg4Y21uZFpWODhxbnk1aU9qRUZ3T3VvU3A3YVd5anpYWXNaQlhGckE2SVFLTEh4RVFCMUtnQUpUQnlIS3ZSTnlRRS0yVG80MFdWcEtacmhEemh5c19SVndxSmFjQm00aVd2Ym9ueFNyUlNpTVpJN1BrcVJvMk10T2JXVDJRUUZjYQ?oc=5
+- **Lien** : https://news.google.com/rss/articles/CBMi7AFBVV95cUxPeU5RNkxrejZoQnFEZ1UtT0hQam1MTXFWZVp3RS1QSUlFMW1TNkFiSW4tZTdXMjd2QzZmaXdQeVMzWTdhUjZtU05TbFRRQWp1LWJGZ0dkckJxOUg0aWNJSXg1TG5DdE1NWjk1UmhnOGY2QzY2aWRDR0lVZHNPRzRUNzZhdTJuUzNHT0h5d2Q1cndaZ3BFaV9sMzlaT19QeS1URFA0ckVKWng0NG1GNGdQRFpLc2NaWW1NQ3RiX2JDQmJCcTFFODEwb3FRb1FMWUIzVmF4QkwwbVh5RWtJVjhSVjBnOUp6M1JhQ0xfNQ?oc=5
 
-Bürgerversammlung Selb: Mehr Übernachtungen und positives Pendlersaldo  Frankenpost
+Trinkwasser, Müll und Rambo-Radler: Was die Menschen in Bernau am meisten bewegt  Rosenheim24
 
-## 11. Abgelehntes Schulprojekt in Benken steigt an Bürgerversammlung wie Phönix aus der Asche - Südostschweiz
+## 9. „Tiefschlag“ für Bürgermeister bei der Kühbacher Bürgerversammlung – Unmut bei der Unterbernbacher Feuerwehr - Augsburger Allgemeine
+
+- **Score** : 3 (Bern (CH)) · **Source** : news-de · **Langue** : de
+- **Lien** : https://news.google.com/rss/articles/CBMi9gFBVV95cUxNTWk1ZzBGYUFCdTluX2FNMG1yck9vNWwwcllwZ2owaHowX1FEU0JNXzY1bWVmSWlUS1hiNzgzbW9ibzMyR0lBSkZvM0JnbnB1eHp1Q1lPSDhJNUdpeUpNV3lRRE9fZ2h6c2tsWU5ydUk1aklfd2pZMkhISGo3WU1iSnRET1JCcnFZVnF0eEdHUWhETVI5SWN1VDg1NlZHX2RVcTlwRU1sckM5LWdzWUIwdGxOMTUwTjRkekZsUURCOFdSV21qNGJLR3BLbHcwb096WXRzMzlPYkljcG5OOW9fNV9uMmdHdWw1WXVGbzh1LUdFQTl1MlE?oc=5
+
+„Tiefschlag“ für Bürgermeister bei der Kühbacher Bürgerversammlung – Unmut bei der Unterbernbacher Feuerwehr  Augsburger Allgemeine
+
+## 10. Abgelehntes Schulprojekt in Benken steigt an Bürgerversammlung wie Phönix aus der Asche - Südostschweiz
 
 - **Score** : 3 (Schweiz (CH)) · **Source** : news-de · **Langue** : de
 - **Lien** : https://news.google.com/rss/articles/CBMizgFBVV95cUxPV01BMHZMc21TNzBjTHF1RlV5QzUzZExQQ0xFWC1GNFRlVi1OT3dVS2p1ZGdkc1c4bE8xbXZTWEwxWk4tbEhacHJMczVFU3B6eDkwaXhRbVdDV3VXamJQRWRScmRnTXZnZmdsdmVOcHpPenRaazh1c1dXbmtVMHc2VC1Ec2dKTU5LMTZna3A2RTBtX2pwRjdtdVlmSzkyN1hLOU5MMXBwLXpTaTA2LTJDWGR1MWtKcG5hd1lPNHRDaXFOSUg1bzl2RU1wOTRHdw?oc=5
 
 Abgelehntes Schulprojekt in Benken steigt an Bürgerversammlung wie Phönix aus der Asche  Südostschweiz
 
-## 12. Schmerikon muss sparen: Bürgerversammlung erteilt Gemeinderat eine Abfuhr - Südostschweiz
+## 11. Schmerikon muss sparen: Bürgerversammlung erteilt Gemeinderat eine Abfuhr - Südostschweiz
 
 - **Score** : 3 (Schweiz (CH)) · **Source** : news-de · **Langue** : de
 - **Lien** : https://news.google.com/rss/articles/CBMiuAFBVV95cUxPRkw3OGFHeWhTeTZGRTRQd3N4UHNaVmNpTjJzUXpQUFNhakVlX0lIa3ZOeG1aRmRLd3ZZSEo0STBkM1B4RXF4X2dtOGtaRzk2RDVJVGdFcFEyN2ppSUFPbmkzS1RjbHp4UHJ3N2FORVg4Ylo1VVEtdTE1bkZXWUpYUUYtZzA2V0NwTnFDQTl5UjBlZWlLQ1dRLVJSRHZoLVJ1NXY3b0M3ZTJMV2U5T1ZHV196cjFEWFU1?oc=5
 
 Schmerikon muss sparen: Bürgerversammlung erteilt Gemeinderat eine Abfuhr  Südostschweiz
 
-## 13. Warum Grossprojekte in Rapperswil-Jona nicht mehr vor die Bürgerversammlung kommen - Südostschweiz
+## 12. Warum Grossprojekte in Rapperswil-Jona nicht mehr vor die Bürgerversammlung kommen - Südostschweiz
 
 - **Score** : 3 (Schweiz (CH)) · **Source** : news-de · **Langue** : de
 - **Lien** : https://news.google.com/rss/articles/CBMixgFBVV95cUxNc28yV0Y4OEpBekJlNHBSTDRCSTVTT3RJYlhWWl9KSGt0RWRyX0k3cG1sUVBoSDB5dkowMkVmZ2NNZmt5VzI0dk50S3FWUTZGRko4ZWViQUJieGd3Mll0S3lNVTUwMkMwN29MUFVuQzE2VDZaa2FkVjhtdzRGQlpBZFRZNVFnYnVkMUpfSDJDelJqQUhWMTViTGZvZGdmYkF5YW43Vnc1ZG54QmpISU95SHNWeGtYRGZYVk55eXZrMDNmX0FyVnc?oc=5
 
 Warum Grossprojekte in Rapperswil-Jona nicht mehr vor die Bürgerversammlung kommen  Südostschweiz
+
+## 13. Erschliessung Porthof wird an Bürgerversammlung der Stadt zum Abstimmungskrimi - Südostschweiz
+
+- **Score** : 3 (Schweiz (CH)) · **Source** : news-de · **Langue** : de
+- **Lien** : https://news.google.com/rss/articles/CBMiwAFBVV95cUxPLUpQX3g2TmZDV2MxMXNUaEhKVU13amZESkZsU3BnYURmZWtMcE44bUtITXJ1TTNWQ2pBcko3TXQ4MXp6VTQzTzVZbVZrZ3IwZV9BTDh4eUgxOTdINGNfQXZlY2NHVGwxRjZVMHo4blFEOGpJcGNTeFRYSHVuaEpWZXJ1VHd2NVlTRjhSYkt1ck1STG80M0E4dUQzbnpIdnpwX1dwYzAzYW4ydlVuVU1DQWwzLXZuMVVLSWpJQ3Z4SEs?oc=5
+
+Erschliessung Porthof wird an Bürgerversammlung der Stadt zum Abstimmungskrimi  Südostschweiz
