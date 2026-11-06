@@ -1,20 +1,20 @@
-# Digest veille MiniPublic — 2026-11-04
+# Digest veille MiniPublic — 2026-11-06
 
-_Pipeline automatisée — 160 items collectés, 14 retenus (seuil ≥ 3). Sources : 3 flux._
+_Pipeline automatisée — 118 items collectés, 12 retenus (seuil ≥ 3). Sources : 3 flux._
 
-## 1. Judith Bernard : « Le tirage au sort rappelle à chacun qu’il est citoyen » - Revue Ballast
-
-- **Score** : 5 (tirage au sort, Bern (CH)) · **Source** : news-fr · **Langue** : fr
-- **Lien** : https://news.google.com/rss/articles/CBMikAFBVV95cUxQbHIxU3czQjlEWWFFdGhQeW1McE5xNmR3WTRER2tWeGRwY1JwV29FRkdMT3MxcHlDeXVrOF96ZGQtcndGMExfdmZzc3VXY2kwTlNudkhVR3Q2OTYzQ2hDZWNQbnB1MGFkUXl4aUV2eWNjU2VMdTFYTG1hdW9QUENBOURvYVBmaDZmMUt2RnVqYW0?oc=5
-
-Judith Bernard : « Le tirage au sort rappelle à chacun qu’il est citoyen »  Revue Ballast
-
-## 2. Abgesagter Bürgerrat: Ein schlechtes Signal aus der Schweiz in Zeiten von Demokratieabbau? - SWI swissinfo.ch
+## 1. Abgesagter Bürgerrat: Ein schlechtes Signal aus der Schweiz in Zeiten von Demokratieabbau? - SWI swissinfo.ch
 
 - **Score** : 5 (Bürgerrat, Schweiz (CH)) · **Source** : news-de · **Langue** : de
 - **Lien** : https://news.google.com/rss/articles/CBMi5wFBVV95cUxPem82blBNVUZET25ITWdJMF91aWJ3M2EtYnhVT29jUlYyQjlYVHRfa3hucjA4Z0JnTWF4alExVnY4SkdnZUJic1hLaklrNmoyU1Zpa3RDaW9UcllUOWV5S0pNb1NLdDJhNEtwRVhXV3EyWHlKa3BGV2FKcWh6S3FxaF9QOGYzUjk3TkdRa0lLdzhVTXNxTWRkdUtfUFlaeEJZZ19KV09ZeVRfVlpHWXZhYnpiYWtXNmJRY2p0Z0JtM2VrVzgwMDM5XzRwbEMzN041cnpyVXNINFAxZGNXa2FGR2xoQURZbHc?oc=5
 
 Abgesagter Bürgerrat: Ein schlechtes Signal aus der Schweiz in Zeiten von Demokratieabbau?  SWI swissinfo.ch
+
+## 2. Dänemark: Bürgerrat fordert weniger Schweine - Der Schweizer Bauer
+
+- **Score** : 5 (Bürgerrat, Schweiz (CH)) · **Source** : news-de · **Langue** : de
+- **Lien** : https://news.google.com/rss/articles/CBMinwFBVV95cUxNYWFKTVl1dHpfNmd5NGp0SnlFQTJBejVOVDlMWTh5UGxMNW5xbjB6eWg4VHR1WWlkT0tmX3BESHNKUlV5T3ktQ0xablVBMHdYSUFiYm5lRlFMOE5OZWQ5djFNTW83Q0VpZXgwbHp1X29HY2JRMldEUWR1SEtGWFBZUzYtd0ptdTR6dDRaRnN4bFlNaW8tTVNkQUxaeFU2VlE?oc=5
+
+Dänemark: Bürgerrat fordert weniger Schweine  Der Schweizer Bauer
 
 ## 3. Convention citoyenne sur les finances publiques : le tirage au sort des citoyens débute - Le Conseil économique social et environnemental
 
@@ -37,63 +37,49 @@ Le CESE lance le tirage au sort des 150 citoyennes et citoyens de la Convention 
 
 Lancement du tirage au sort pour la Convention citoyenne sur les temps de l'enfant  Le Conseil économique social et environnemental
 
-## 6. Comment se déroule le tirage au sort de la Convention citoyenne ? - Convention Citoyenne sur le temps de l'enfant
-
-- **Score** : 4 (convention citoyenne, tirage au sort) · **Source** : news-fr · **Langue** : fr
-- **Lien** : https://news.google.com/rss/articles/CBMiwAFBVV95cUxOa2ROLWoxZTRmM1M2eFozMGROQlFCb096cEFFZTdqdjl5S0ZYUnlqN2g4UktjeVFBVWk5M245REdLZmI5MGxta21qTDJoeS11dFVRcnVpelJ4a2hvdms4TXNXVW43ajVPR1Q0eHpoVWdCcnRjRmsxRlZYT1JqUkhJczhGN0FuVWdKSjZacVFTLTNNbGxFWXZLaHl4Xy1KTEhLemhadjZLOW5fQldLVE9leUpzTGJHSU0wVDI5VHVaVEY?oc=5
-
-Comment se déroule le tirage au sort de la Convention citoyenne ?  Convention Citoyenne sur le temps de l'enfant
-
-## 7. Frouzins. Tirage au sort du conseil citoyen - ladepeche.fr
-
-- **Score** : 4 (tirage au sort, conseil citoyen) · **Source** : news-fr · **Langue** : fr
-- **Lien** : https://news.google.com/rss/articles/CBMiigFBVV95cUxQWWY2UDlZeG9CMFNHQXNfcmJMMWtvTnM2YVZBSkYzbzBaY3gwRkQwNVY5UC1wTmR5Mm9LUDlhN1ZGSW1zNEpfbFVESnl3VUk1cHUzZmI1N01ZWVFLdXdjN2QxV243NnpuT3FPR0wxY3VTenlxbnBpTDJVU2kzbDN5QVZDUDRISWFUZ3c?oc=5
-
-Frouzins. Tirage au sort du conseil citoyen  ladepeche.fr
-
-## 8. Rhône. Vénissieux : le nouveau conseil citoyen désigné par tirage au sort - Le Progrès
-
-- **Score** : 4 (tirage au sort, conseil citoyen) · **Source** : news-fr · **Langue** : fr
-- **Lien** : https://news.google.com/rss/articles/CBMiygFBVV95cUxPTGRkVnVYRTNYbmJSaGhqNnQ4ZXlsY1EtMEZjbmlweDFZTWRSeUlLVllVOG1nREJVVmwyempjTTZyb3YzbnRoZVRPdUpFdWY5cmp1VE9VbGhpbnYtcElNRWhSV0tuT25lWXZEZjNHMkVKMVZqRDhwMzlJMWJkaGtXRHJ1M2ZVdnFvSzNZZnp1a25abUhIRGlXd2dVWmM5MzhISmp5SmxMTnFuV2hBV1k3Mmt4QjZoQjIxNmRSNEI3LThCT1RSUzJBczJn?oc=5
-
-Rhône. Vénissieux : le nouveau conseil citoyen désigné par tirage au sort  Le Progrès
-
-## 9. Ein Jahr nach der Abstimmung: «Der Neubau der Schule gilt einzig der Zukunft von Benken» - Südostschweiz
+## 6. Ein Jahr nach der Abstimmung: «Der Neubau der Schule gilt einzig der Zukunft von Benken» - Südostschweiz
 
 - **Score** : 3 (Schweiz (CH)) · **Source** : news-de · **Langue** : de
 - **Lien** : https://news.google.com/rss/articles/CBMifEFVX3lxTFB4algwN0Ruek9hTGUtSWlzMGVNYkV2MGctc2d6UjFPdUJnZzFjZHJlYzRnN21aQ1ZjMlFMcWxOS1lHN2Z5bGl5WXY1OHZXMVZ0M2F3OGlmQTZNRHBWamtzRkFhNV82S0dBekhvWWIyZ3N5dVQxbER4UDd1b2k?oc=5
 
 Ein Jahr nach der Abstimmung: «Der Neubau der Schule gilt einzig der Zukunft von Benken»  Südostschweiz
 
-## 10. Gegen Schluss wird es an der Bürgerversammlung in Rapperswil-Jona hitzig - Südostschweiz
+## 7. Gegen Schluss wird es an der Bürgerversammlung in Rapperswil-Jona hitzig - Südostschweiz
 
 - **Score** : 3 (Schweiz (CH)) · **Source** : news-de · **Langue** : de
 - **Lien** : https://news.google.com/rss/articles/CBMiuAFBVV95cUxQMndRcXd4b3VxVVhNVzdTblF0cE1WQy05T1FXTmtEVnJGUzdCVTFwRFp2TWdkcnlrd3hSdFNrU2NrVTJhSkhHMHFWbURHRHJ1STk5eko1U0JIMWQ0VmRRTS1ZTmlNWTBBXzVGZXpta1lCQlJNVFk2UzdodGNVZjFyWXlIcWFacEJpQTBJNkRYcVdFZ2ZoMmRlMTU5VHFIMkJKMXNZQzQ5N2VGSHBwcUVGaXRFaVlrVUth?oc=5
 
 Gegen Schluss wird es an der Bürgerversammlung in Rapperswil-Jona hitzig  Südostschweiz
 
-## 11. Abgelehntes Schulprojekt in Benken steigt an Bürgerversammlung wie Phönix aus der Asche - Südostschweiz
+## 8. Abgelehntes Schulprojekt in Benken steigt an Bürgerversammlung wie Phönix aus der Asche - Südostschweiz
 
 - **Score** : 3 (Schweiz (CH)) · **Source** : news-de · **Langue** : de
 - **Lien** : https://news.google.com/rss/articles/CBMizgFBVV95cUxPV01BMHZMc21TNzBjTHF1RlV5QzUzZExQQ0xFWC1GNFRlVi1OT3dVS2p1ZGdkc1c4bE8xbXZTWEwxWk4tbEhacHJMczVFU3B6eDkwaXhRbVdDV3VXamJQRWRScmRnTXZnZmdsdmVOcHpPenRaazh1c1dXbmtVMHc2VC1Ec2dKTU5LMTZna3A2RTBtX2pwRjdtdVlmSzkyN1hLOU5MMXBwLXpTaTA2LTJDWGR1MWtKcG5hd1lPNHRDaXFOSUg1bzl2RU1wOTRHdw?oc=5
 
 Abgelehntes Schulprojekt in Benken steigt an Bürgerversammlung wie Phönix aus der Asche  Südostschweiz
 
-## 12. Schmerikon muss sparen: Bürgerversammlung erteilt Gemeinderat eine Abfuhr - Südostschweiz
+## 9. Obernbreit: Punktlandung beim Kindergartenbau in Obernbreit - Main-Post
+
+- **Score** : 3 (Bern (CH)) · **Source** : news-de · **Langue** : de
+- **Lien** : https://news.google.com/rss/articles/CBMipAFBVV95cUxPNDZqdGw5a2xEWmZCVDVQS01rcTg0bmJoY3BEUzFOR2FCNnZQT2hFWGtxUUxlVllBZFFRWGZzREN1NUZZMGx5N2stWHJvRlNxOWZMaDVrTGZ3OXVLRmc3dkp1V05NV3hzT0QzbXA0ZWRlejc0SUYzNkxXd0MwRE94OG5EZk96OGNJSkowczgzRWZTWEVSa3VtX3lGS2JreFlDTUh3Tg?oc=5
+
+Obernbreit: Punktlandung beim Kindergartenbau in Obernbreit  Main-Post
+
+## 10. Schmerikon muss sparen: Bürgerversammlung erteilt Gemeinderat eine Abfuhr - Südostschweiz
 
 - **Score** : 3 (Schweiz (CH)) · **Source** : news-de · **Langue** : de
 - **Lien** : https://news.google.com/rss/articles/CBMiuAFBVV95cUxPRkw3OGFHeWhTeTZGRTRQd3N4UHNaVmNpTjJzUXpQUFNhakVlX0lIa3ZOeG1aRmRLd3ZZSEo0STBkM1B4RXF4X2dtOGtaRzk2RDVJVGdFcFEyN2ppSUFPbmkzS1RjbHp4UHJ3N2FORVg4Ylo1VVEtdTE1bkZXWUpYUUYtZzA2V0NwTnFDQTl5UjBlZWlLQ1dRLVJSRHZoLVJ1NXY3b0M3ZTJMV2U5T1ZHV196cjFEWFU1?oc=5
 
 Schmerikon muss sparen: Bürgerversammlung erteilt Gemeinderat eine Abfuhr  Südostschweiz
 
-## 13. Warum Grossprojekte in Rapperswil-Jona nicht mehr vor die Bürgerversammlung kommen - Südostschweiz
+## 11. Warum Grossprojekte in Rapperswil-Jona nicht mehr vor die Bürgerversammlung kommen - Südostschweiz
 
 - **Score** : 3 (Schweiz (CH)) · **Source** : news-de · **Langue** : de
 - **Lien** : https://news.google.com/rss/articles/CBMixgFBVV95cUxNc28yV0Y4OEpBekJlNHBSTDRCSTVTT3RJYlhWWl9KSGt0RWRyX0k3cG1sUVBoSDB5dkowMkVmZ2NNZmt5VzI0dk50S3FWUTZGRko4ZWViQUJieGd3Mll0S3lNVTUwMkMwN29MUFVuQzE2VDZaa2FkVjhtdzRGQlpBZFRZNVFnYnVkMUpfSDJDelJqQUhWMTViTGZvZGdmYkF5YW43Vnc1ZG54QmpISU95SHNWeGtYRGZYVk55eXZrMDNmX0FyVnc?oc=5
 
 Warum Grossprojekte in Rapperswil-Jona nicht mehr vor die Bürgerversammlung kommen  Südostschweiz
 
-## 14. Erschliessung Porthof wird an Bürgerversammlung der Stadt zum Abstimmungskrimi - Südostschweiz
+## 12. Erschliessung Porthof wird an Bürgerversammlung der Stadt zum Abstimmungskrimi - Südostschweiz
 
 - **Score** : 3 (Schweiz (CH)) · **Source** : news-de · **Langue** : de
 - **Lien** : https://news.google.com/rss/articles/CBMiwAFBVV95cUxPLUpQX3g2TmZDV2MxMXNUaEhKVU13amZESkZsU3BnYURmZWtMcE44bUtITXJ1TTNWQ2pBcko3TXQ4MXp6VTQzTzVZbVZrZ3IwZV9BTDh4eUgxOTdINGNfQXZlY2NHVGwxRjZVMHo4blFEOGpJcGNTeFRYSHVuaEpWZXJ1VHd2NVlTRjhSYkt1ck1STG80M0E4dUQzbnpIdnpwX1dwYzAzYW4ydlVuVU1DQWwzLXZuMVVLSWpJQ3Z4SEs?oc=5
