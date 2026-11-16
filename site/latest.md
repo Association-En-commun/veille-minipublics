@@ -1,6 +1,6 @@
-# Digest veille MiniPublic — 2026-11-13
+# Digest veille MiniPublic — 2026-11-16
 
-_Pipeline automatisée — 114 items collectés, 11 retenus (seuil ≥ 3). Sources : 3 flux._
+_Pipeline automatisée — 108 items collectés, 11 retenus (seuil ≥ 3). Sources : 3 flux._
 
 ## 1. Abgesagter Bürgerrat: Ein schlechtes Signal aus der Schweiz in Zeiten von Demokratieabbau? - SWI swissinfo.ch
 
@@ -37,12 +37,12 @@ Le CESE lance le tirage au sort des 150 citoyennes et citoyens de la Convention 
 
 Lancement du tirage au sort pour la Convention citoyenne sur les temps de l'enfant  Le Conseil économique social et environnemental
 
-## 6. Gegen Schluss wird es an der Bürgerversammlung in Rapperswil-Jona hitzig - Südostschweiz
+## 6. Beteiligungsformat in Schwalmtal: Bürgerversammlung zum Bebauungsplan Genfeldhof - RP Online
 
-- **Score** : 3 (Schweiz (CH)) · **Source** : news-de · **Langue** : de
-- **Lien** : https://news.google.com/rss/articles/CBMiuAFBVV95cUxQMndRcXd4b3VxVVhNVzdTblF0cE1WQy05T1FXTmtEVnJGUzdCVTFwRFp2TWdkcnlrd3hSdFNrU2NrVTJhSkhHMHFWbURHRHJ1STk5eko1U0JIMWQ0VmRRTS1ZTmlNWTBBXzVGZXpta1lCQlJNVFk2UzdodGNVZjFyWXlIcWFacEJpQTBJNkRYcVdFZ2ZoMmRlMTU5VHFIMkJKMXNZQzQ5N2VGSHBwcUVGaXRFaVlrVUth?oc=5
+- **Score** : 3 (Genf (CH)) · **Source** : news-de · **Langue** : de
+- **Lien** : https://news.google.com/rss/articles/CBMiswFBVV95cUxPVU5BV29CbEZheDRSMEhIR251VVFQOHFlcVlDNlctXzZtSEY1RlF6YXR5Y0VlNTBsaHZwMkRQZDdxM0ZjcTUza1lRZlY4ZXJBLWU2MDdhM0FOWVZfLW1IdWozLVZJYlcyV2dLSE9EQ3Jhd2c4dWlRUGhfT05sQy1rN3VfWDZjajdkb051VlBuUlBZNXVycTI1WFltbG81ZXl2YXhQSXZPQWZZMmdDLUtfUS1GZw?oc=5
 
-Gegen Schluss wird es an der Bürgerversammlung in Rapperswil-Jona hitzig  Südostschweiz
+Beteiligungsformat in Schwalmtal: Bürgerversammlung zum Bebauungsplan Genfeldhof  RP Online
 
 ## 7. Abgelehntes Schulprojekt in Benken steigt an Bürgerversammlung wie Phönix aus der Asche - Südostschweiz
 
