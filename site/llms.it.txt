@@ -3,6 +3,15 @@
 L'osservatorio trilingue dei minipubblici e della democrazia deliberativa in Svizzera.
 Fiches datées et sourcées, générées par pipeline automatisée avec cadrage éditorial humain (En Commun).
 
+- [1. Abgesagter Bürgerrat: Ein schlechtes Signal aus der Schweiz in Zeiten von Demokratieabb]() : mini-publics/démocratie délibérative (2026-11-18)
+- [2. Convention citoyenne sur les finances publiques : le tirage au sort des citoyens débute]() : mini-publics/démocratie délibérative (2026-11-18)
+- [3. Le CESE lance le tirage au sort des 150 citoyennes et citoyens de la Convention citoyen]() : mini-publics/démocratie délibérative (2026-11-18)
+- [4. Lancement du tirage au sort pour la Convention citoyenne sur les temps de l&#x27;enfant]() : mini-publics/démocratie délibérative (2026-11-18)
+- [5. Abgelehntes Schulprojekt in Benken steigt an Bürgerversammlung wie Phönix aus der Asche]() : mini-publics/démocratie délibérative (2026-11-18)
+- [6. Schmerikon muss sparen: Bürgerversammlung erteilt Gemeinderat eine Abfuhr - Südostschwe]() : mini-publics/démocratie délibérative (2026-11-18)
+- [7. Warum Grossprojekte in Rapperswil-Jona nicht mehr vor die Bürgerversammlung kommen - Sü]() : mini-publics/démocratie délibérative (2026-11-18)
+- [8. Erschliessung Porthof wird an Bürgerversammlung der Stadt zum Abstimmungskrimi - Südost]() : mini-publics/démocratie délibérative (2026-11-18)
+- [9. Rekord-Bürgerversammlung in Rapperswil-Jona - Schweiz aktuell - SRF]() : mini-publics/démocratie délibérative (2026-11-18)
 - [1. Abgesagter Bürgerrat: Ein schlechtes Signal aus der Schweiz in Zeiten von Demokratieabb](https://news.google.com/rss/articles/CBMi5wFBVV95cUxPem82blBNVUZET25ITWdJMF91aWJ3M2EtYnhVT29jUlYyQjlYVHRfa3hucjA4Z0JnTWF4alExVnY4SkdnZUJic1hLaklrNmoyU1Zpa3RDaW9UcllUOWV5S0pNb1NLdDJhNEtwRVhXV3EyWHlKa3BGV2FKcWh6S3FxaF9QOGYzUjk3TkdRa0lLdzhVTXNxTWRkdUtfUFlaeEJZZ19KV09ZeVRfVlpHWXZhYnpiYWtXNmJRY2p0Z0JtM2VrVzgwMDM5XzRwbEMzN041cnpyVXNINFAxZGNXa2FGR2xoQURZbHc?oc=5) : mini-publics/démocratie délibérative (2026-11-13)
 - [2. Grüne wollen wegen Klimakrise einen Schweizer Bürgerrat schaffen - Watson](https://news.google.com/rss/articles/CBMiswFBVV95cUxOWGxPRThzM2FPY3BRajBBcUFaVmMzcENiT091UkZSSnp4MF9DRlQ2d2s5X1p4Qm8zWlBLY2pIeWllRVYzNDhnU2dVNkN1WmZSd1dHYmdYYmpneE53aWR6VEhJLWVDMk9BUGs0cEpkbzVFbV9ZdGlJQTJaZnZleDRYYzNlVWh1OFBDV2l4Q2dXUGtMckN5Sl9CcFUtVURlLTVrZkNMcDM2ZGlnS2dwS0JzTktlaw?oc=5) : mini-publics/démocratie délibérative (2026-11-13)
 - [3. Convention citoyenne sur les finances publiques : le tirage au sort des citoyens débute](https://news.google.com/rss/articles/CBMiugFBVV95cUxPNFFRM1NsUGI5LVowQTJxWlRtcURhc3BoUjJ5bGdaaU9ZcHNWTzFIeXllUTNHODQwWXJsQnNYNUs4dUpNbS1aQkhmQ082dHVYUHhRMW1tZkdsNWlESV8tQWl6Qk9BZG5JMzRkS0piVm80WVh0YlhIU2MwQ0tTa0R6Ukt5UDhMU0MySVlGUFlud1NYUExnZmZDMThuZ2loMzItWkE0UDZxSnBpdjlJWDYyMllXLWJoUFJNZ3c?oc=5) : mini-publics/démocratie délibérative (2026-11-13)
@@ -14,12 +23,3 @@ Fiches datées et sourcées, générées par pipeline automatisée avec cadrage 
 - [9. Warum Grossprojekte in Rapperswil-Jona nicht mehr vor die Bürgerversammlung kommen - Sü](https://news.google.com/rss/articles/CBMixgFBVV95cUxNc28yV0Y4OEpBekJlNHBSTDRCSTVTT3RJYlhWWl9KSGt0RWRyX0k3cG1sUVBoSDB5dkowMkVmZ2NNZmt5VzI0dk50S3FWUTZGRko4ZWViQUJieGd3Mll0S3lNVTUwMkMwN29MUFVuQzE2VDZaa2FkVjhtdzRGQlpBZFRZNVFnYnVkMUpfSDJDelJqQUhWMTViTGZvZGdmYkF5YW43Vnc1ZG54QmpISU95SHNWeGtYRGZYVk55eXZrMDNmX0FyVnc?oc=5) : mini-publics/démocratie délibérative (2026-11-13)
 - [10. Erschliessung Porthof wird an Bürgerversammlung der Stadt zum Abstimmungskrimi - Südos](https://news.google.com/rss/articles/CBMiwAFBVV95cUxPLUpQX3g2TmZDV2MxMXNUaEhKVU13amZESkZsU3BnYURmZWtMcE44bUtITXJ1TTNWQ2pBcko3TXQ4MXp6VTQzTzVZbVZrZ3IwZV9BTDh4eUgxOTdINGNfQXZlY2NHVGwxRjZVMHo4blFEOGpJcGNTeFRYSHVuaEpWZXJ1VHd2NVlTRjhSYkt1ck1STG80M0E4dUQzbnpIdnpwX1dwYzAzYW4ydlVuVU1DQWwzLXZuMVVLSWpJQ3Z4SEs?oc=5) : mini-publics/démocratie délibérative (2026-11-13)
 - [11. Rekord-Bürgerversammlung in Rapperswil-Jona - Schweiz aktuell - SRF](https://news.google.com/rss/articles/CBMi6gFBVV95cUxPV1drc192bzFiRjlHdktvZE0ydGdMNDZWdEpCaDJKNnhacURyWW13dVBwNDhtRXFncGVEdHdCaWZLT1djRkt5ZlkwMzBMTzJoX2xYemM3X3hCejc2bVlEa296SUFPMGRUQkNoR05pSzlodXlPTWRPYkZSamd6RzNGT2tOMXdqSU4wMHNIWTF2YTVwMHllWjZKb3U0Q0RTX2RmeDNqWWNpb0FrekswSGJRUS1zc0hLNVMtaXdfOV82WDZZSHNDalpUVE85NC1RRVp6ZmJIalF4SGhVMlA5QnVZbi0weVRrTC1WOHc?oc=5) : mini-publics/démocratie délibérative (2026-11-13)
-- [1. Abgesagter Bürgerrat: Ein schlechtes Signal aus der Schweiz in Zeiten von Demokratieabb]() : mini-publics/démocratie délibérative (2026-11-09)
-- [2. Convention citoyenne sur les finances publiques : le tirage au sort des citoyens débute]() : mini-publics/démocratie délibérative (2026-11-09)
-- [3. Le CESE lance le tirage au sort des 150 citoyennes et citoyens de la Convention citoyen]() : mini-publics/démocratie délibérative (2026-11-09)
-- [4. Lancement du tirage au sort pour la Convention citoyenne sur les temps de l&#x27;enfant]() : mini-publics/démocratie délibérative (2026-11-09)
-- [5. Gegen Schluss wird es an der Bürgerversammlung in Rapperswil-Jona hitzig - Südostschwei]() : mini-publics/démocratie délibérative (2026-11-09)
-- [6. Abgelehntes Schulprojekt in Benken steigt an Bürgerversammlung wie Phönix aus der Asche]() : mini-publics/démocratie délibérative (2026-11-09)
-- [7. Schmerikon muss sparen: Bürgerversammlung erteilt Gemeinderat eine Abfuhr - Südostschwe]() : mini-publics/démocratie délibérative (2026-11-09)
-- [8. Warum Grossprojekte in Rapperswil-Jona nicht mehr vor die Bürgerversammlung kommen - Sü]() : mini-publics/démocratie délibérative (2026-11-09)
-- [9. Erschliessung Porthof wird an Bürgerversammlung der Stadt zum Abstimmungskrimi - Südost]() : mini-publics/démocratie délibérative (2026-11-09)
